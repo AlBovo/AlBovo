@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Student at ITT Blaise Pascal<br>🌱 I’m currently learning C++, C#, Python and Kotlin<br>🏆 Competitive programmer and Hacker
+🔭 Student at ITT Blaise Pascal<br>🌱 I’m currently learning C++, C#, Python and Kotlin<br>🏆 Competitive Programmer and Cyber Security enthusiast
 
 
 # 💻 Tech Stack:
